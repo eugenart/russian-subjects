@@ -7,8 +7,8 @@ Russian Cities, Regions, Districts JSON. Российские города, об
 3. **cities.json** Города (Пример: Москва, Общее количество: 2513 элементов)
 
 Переменные в массиве позволяют быстро выстроить relation-связи в таблице БД:
--- cities.json имеет переменные region_id, district_id
--- regions.json имеет переменные district_id
+* cities.json имеет переменные region_id, district_id
+* regions.json имеет переменные district_id
 
 ### Альтернативные массивы (alternative/...) ###
 В данном Gist имеются альтернативные файлы cities_alternative.json, regions_alternative.json
