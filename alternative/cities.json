@@ -1,0 +1,2684 @@
+[
+  {
+    "name": "Москва",
+    "coordinates": "55.7485169,37.0720698",
+    "region_id": 77,
+    "district_id": 1
+  },
+  {
+    "name": "Санкт-Петербург",
+    "coordinates": "59.9171483,30.0448782",
+    "region_id": 78,
+    "district_id": 3
+  },
+  {
+    "name": "Мытищи",
+    "coordinates": "55.9190301,37.667455",
+    "region_id": 77,
+    "district_id": 1
+  },
+  {
+    "name": "Белгород",
+    "coordinates": "50.599713,36.598262",
+    "region_id": 31,
+    "district_id": 1
+  },
+  {
+    "name": "Губкин",
+    "coordinates": "51.282417,37.543495",
+    "region_id": 31,
+    "district_id": 1
+  },
+  {
+    "name": "Старый Оскол",
+    "coordinates": "51.298082,37.837959",
+    "region_id": 31,
+    "district_id": 1
+  },
+  {
+    "name": "Шебекино",
+    "coordinates": "50.411866,36.894762",
+    "region_id": 31,
+    "district_id": 1
+  },
+  {
+    "name": "Брянск",
+    "coordinates": "53.263531,34.416110",
+    "region_id": 32,
+    "district_id": 1
+  },
+  {
+    "name": "Клинцы",
+    "coordinates": "52.756616,32.256669",
+    "region_id": 32,
+    "district_id": 1
+  },
+  {
+    "name": "Новозыбков",
+    "coordinates": "52.534613,31.933387",
+    "region_id": 32,
+    "district_id": 1
+  },
+  {
+    "name": "Сельцо",
+    "coordinates": "53.375943,34.105226",
+    "region_id": 32,
+    "district_id": 1
+  },
+  {
+    "name": "Владимир",
+    "coordinates": "56.144596,40.417869",
+    "region_id": 33,
+    "district_id": 1
+  },
+  {
+    "name": "Гусь-Хрустальный",
+    "coordinates": "55.606284,40.656373",
+    "region_id": 33,
+    "district_id": 1
+  },
+  {
+    "name": "Ковров",
+    "coordinates": "56.356769,41.322631",
+    "region_id": 33,
+    "district_id": 1
+  },
+  {
+    "name": "Муром",
+    "coordinates": "55.567397,42.016585",
+    "region_id": 33,
+    "district_id": 1
+  },
+  {
+    "name": "Радужный",
+    "coordinates": "62.103942,77.475399",
+    "region_id": 33,
+    "district_id": 1
+  },
+  {
+    "name": "Воронеж",
+    "coordinates": "51.675497,39.208882",
+    "region_id": 36,
+    "district_id": 1
+  },
+  {
+    "name": "Воронеж-45",
+    "coordinates": "51.689830,39.148279",
+    "region_id": 36,
+    "district_id": 1
+  },
+  {
+    "name": "Нововоронеж",
+    "coordinates": "51.308070,39.220019",
+    "region_id": 36,
+    "district_id": 1
+  },
+  {
+    "name": "Иваново",
+    "coordinates": "57.005067,40.976645",
+    "region_id": 37,
+    "district_id": 1
+  },
+  {
+    "name": "Калуга",
+    "coordinates": "54.551858,36.285097",
+    "region_id": 40,
+    "district_id": 1
+  },
+  {
+    "name": "Обнинск",
+    "coordinates": "55.117038,36.597082",
+    "region_id": 40,
+    "district_id": 1
+  },
+  {
+    "name": "Волгореченск",
+    "coordinates": "57.445687,41.157061",
+    "region_id": 44,
+    "district_id": 1
+  },
+  {
+    "name": "Курск",
+    "coordinates": "51.709196,36.156224",
+    "region_id": 46,
+    "district_id": 1
+  },
+  {
+    "name": "Елец",
+    "coordinates": "52.617099,38.504867",
+    "region_id": 48,
+    "district_id": 1
+  },
+  {
+    "name": "Липецк",
+    "coordinates": "52.612200,39.598123",
+    "region_id": 48,
+    "district_id": 1
+  },
+  {
+    "name": "Зеленоград",
+    "coordinates": "55.987153,37.202151",
+    "region_id": 77,
+    "district_id": 1
+  },
+  {
+    "name": "Троицк",
+    "coordinates": "54.074757,61.567051",
+    "region_id": 77,
+    "district_id": 1
+  },
+  {
+    "name": "Щербинка",
+    "coordinates": "55.500558,37.557320",
+    "region_id": 77,
+    "district_id": 1
+  },
+  {
+    "name": "Бронницы",
+    "coordinates": "55.419519,38.262814",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Дзержинский",
+    "coordinates": "55.626012,37.849191",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Долгопрудный",
+    "coordinates": "55.947064,37.499276",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Домодедово",
+    "coordinates": "55.410307,37.902451",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Дубна",
+    "coordinates": "56.732020,37.166897",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Железнодорожный",
+    "coordinates": "55.737376,38.009539",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Жуковский",
+    "coordinates": "55.597491,38.113256",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Звенигород",
+    "coordinates": "55.731352,36.855203",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Ивантеевка",
+    "coordinates": "55.975927,37.919520",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Климовск",
+    "coordinates": "55.359093,37.521042",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Коломна",
+    "coordinates": "55.093752,38.768862",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Королев",
+    "coordinates": "55.931680,37.851855",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Котельники",
+    "coordinates": "55.653204,37.861322",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Красноармейск",
+    "coordinates": "56.106091,38.139242",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Краснознаменск",
+    "coordinates": "55.592985,37.042257",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Лобня",
+    "coordinates": "56.017231,37.485264",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Лосино-Петровский",
+    "coordinates": "55.868313,38.197662",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Лыткарино",
+    "coordinates": "55.579537,37.912039",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Орехово-Зуево",
+    "coordinates": "55.803435,38.966790",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Подольск",
+    "coordinates": "55.431245,37.545765",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Протвино",
+    "coordinates": "54.875414,37.205279",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Пущино",
+    "coordinates": "54.839577,37.625892",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Реутов",
+    "coordinates": "55.761758,37.861302",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Рошаль",
+    "coordinates": "55.658370,39.865350",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Серпухов",
+    "coordinates": "54.917956,37.422996",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Фрязино",
+    "coordinates": "55.960260,38.044144",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Химки",
+    "coordinates": "55.894055,37.443949",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Электрогорск",
+    "coordinates": "55.875143,38.782330",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Электросталь",
+    "coordinates": "55.783553,38.455161",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Юбилейный",
+    "coordinates": "52.227366,104.304081",
+    "region_id": 50,
+    "district_id": 1
+  },
+  {
+    "name": "Ливны",
+    "coordinates": "52.424625,37.599641",
+    "region_id": 57,
+    "district_id": 1
+  },
+  {
+    "name": "Мценск",
+    "coordinates": "53.288938,36.580145",
+    "region_id": 57,
+    "district_id": 1
+  },
+  {
+    "name": "Орел",
+    "coordinates": "52.966847,36.062490",
+    "region_id": 57,
+    "district_id": 1
+  },
+  {
+    "name": "Касимов",
+    "coordinates": "54.949757,41.397405",
+    "region_id": 62,
+    "district_id": 1
+  },
+  {
+    "name": "Рязань",
+    "coordinates": "54.609542,39.712586",
+    "region_id": 62,
+    "district_id": 1
+  },
+  {
+    "name": "Сасово",
+    "coordinates": "54.356424,41.919413",
+    "region_id": 62,
+    "district_id": 1
+  },
+  {
+    "name": "Скопин",
+    "coordinates": "53.825747,39.556825",
+    "region_id": 62,
+    "district_id": 1
+  },
+  {
+    "name": "Десногорск",
+    "coordinates": "54.152383,33.287855",
+    "region_id": 67,
+    "district_id": 1
+  },
+  {
+    "name": "Смоленск",
+    "coordinates": "54.790311,32.050366",
+    "region_id": 67,
+    "district_id": 1
+  },
+  {
+    "name": "Кирсанов",
+    "coordinates": "52.653269,42.720743",
+    "region_id": 68,
+    "district_id": 1
+  },
+  {
+    "name": "Котовск",
+    "coordinates": "52.597808,41.509319",
+    "region_id": 68,
+    "district_id": 1
+  },
+  {
+    "name": "Мичуринск",
+    "coordinates": "52.893034,40.498096",
+    "region_id": 68,
+    "district_id": 1
+  },
+  {
+    "name": "Моршанск",
+    "coordinates": "53.444776,41.819164",
+    "region_id": 68,
+    "district_id": 1
+  },
+  {
+    "name": "Рассказово",
+    "coordinates": "52.658662,41.881486",
+    "region_id": 68,
+    "district_id": 1
+  },
+  {
+    "name": "Тамбов",
+    "coordinates": "52.723598,41.442306",
+    "region_id": 68,
+    "district_id": 1
+  },
+  {
+    "name": "Уварово",
+    "coordinates": "51.972473,42.264158",
+    "region_id": 68,
+    "district_id": 1
+  },
+  {
+    "name": "Вышний Волочек",
+    "coordinates": "57.588894,34.568600",
+    "region_id": 69,
+    "district_id": 1
+  },
+  {
+    "name": "Кимры",
+    "coordinates": "56.860398,37.359892",
+    "region_id": 69,
+    "district_id": 1
+  },
+  {
+    "name": "Нелидово",
+    "coordinates": "56.229171,32.790847",
+    "region_id": 69,
+    "district_id": 1
+  },
+  {
+    "name": "Ржев",
+    "coordinates": "56.258397,34.328349",
+    "region_id": 69,
+    "district_id": 1
+  },
+  {
+    "name": "Тверь",
+    "coordinates": "56.858721,35.917597",
+    "region_id": 69,
+    "district_id": 1
+  },
+  {
+    "name": "Торжок",
+    "coordinates": "57.035934,34.969076",
+    "region_id": 69,
+    "district_id": 1
+  },
+  {
+    "name": "Донской",
+    "coordinates": "53.967479,38.352923",
+    "region_id": 71,
+    "district_id": 1
+  },
+  {
+    "name": "Тула",
+    "coordinates": "54.204836,37.618491",
+    "region_id": 71,
+    "district_id": 1
+  },
+  {
+    "name": "Переславль-Залесский",
+    "coordinates": "56.747048,38.890260",
+    "region_id": 76,
+    "district_id": 1
+  },
+  {
+    "name": "Ярославль",
+    "coordinates": "57.626074,39.884471",
+    "region_id": 76,
+    "district_id": 1
+  },
+  {
+    "name": "Адыгейск",
+    "coordinates": "44.881106,39.194619",
+    "region_id": 1,
+    "district_id": 2
+  },
+  {
+    "name": "Майкоп",
+    "coordinates": "44.598411,40.108087",
+    "region_id": 1,
+    "district_id": 2
+  },
+  {
+    "name": "Астрахань",
+    "coordinates": "46.358804,48.059934",
+    "region_id": 30,
+    "district_id": 2
+  },
+  {
+    "name": "Знаменск",
+    "coordinates": "48.588212,45.722074",
+    "region_id": 30,
+    "district_id": 2
+  },
+  {
+    "name": "Волгоград",
+    "coordinates": "48.708048,44.513303",
+    "region_id": 34,
+    "district_id": 2
+  },
+  {
+    "name": "Волжский",
+    "coordinates": "48.817649,44.770729",
+    "region_id": 34,
+    "district_id": 2
+  },
+  {
+    "name": "Камышин",
+    "coordinates": "50.094634,45.393982",
+    "region_id": 34,
+    "district_id": 2
+  },
+  {
+    "name": "Михайловка",
+    "coordinates": "50.056414,43.228590",
+    "region_id": 34,
+    "district_id": 2
+  },
+  {
+    "name": "Урюпинск",
+    "coordinates": "50.797418,42.005600",
+    "region_id": 34,
+    "district_id": 2
+  },
+  {
+    "name": "Фролово",
+    "coordinates": "49.759035,43.659151",
+    "region_id": 34,
+    "district_id": 2
+  },
+  {
+    "name": "Элиста",
+    "coordinates": "46.315488,44.279401",
+    "region_id": 8,
+    "district_id": 2
+  },
+  {
+    "name": "Армавир",
+    "coordinates": "44.987360,41.111133",
+    "region_id": 23,
+    "district_id": 2
+  },
+  {
+    "name": "Геленджик",
+    "coordinates": "44.591862,38.024166",
+    "region_id": 23,
+    "district_id": 2
+  },
+  {
+    "name": "Горячий Ключ",
+    "coordinates": "44.635384,39.135119",
+    "region_id": 23,
+    "district_id": 2
+  },
+  {
+    "name": "Краснодар",
+    "coordinates": "45.039267,38.987221",
+    "region_id": 23,
+    "district_id": 2
+  },
+  {
+    "name": "Новороссийск",
+    "coordinates": "44.715401,37.761967",
+    "region_id": 23,
+    "district_id": 2
+  },
+  {
+    "name": "Сочи",
+    "coordinates": "43.602808,39.734154",
+    "region_id": 23,
+    "district_id": 2
+  },
+  {
+    "name": "Азов",
+    "coordinates": "47.094745,39.413655",
+    "region_id": 61,
+    "district_id": 2
+  },
+  {
+    "name": "Батайск",
+    "coordinates": "47.139761,39.737848",
+    "region_id": 61,
+    "district_id": 2
+  },
+  {
+    "name": "Волгодонск",
+    "coordinates": "47.506047,42.179434",
+    "region_id": 61,
+    "district_id": 2
+  },
+  {
+    "name": "Гуково",
+    "coordinates": "48.051311,39.937705",
+    "region_id": 61,
+    "district_id": 2
+  },
+  {
+    "name": "Донецк",
+    "coordinates": "48.015883,37.802850",
+    "region_id": 61,
+    "district_id": 2
+  },
+  {
+    "name": "Зверево",
+    "coordinates": "48.021924,40.120757",
+    "region_id": 61,
+    "district_id": 2
+  },
+  {
+    "name": "Каменск-Шахтинский",
+    "coordinates": "48.314118,40.268954",
+    "region_id": 61,
+    "district_id": 2
+  },
+  {
+    "name": "Новочеркасск",
+    "coordinates": "47.417769,40.072678",
+    "region_id": 61,
+    "district_id": 2
+  },
+  {
+    "name": "Новошахтинск",
+    "coordinates": "47.756879,39.935769",
+    "region_id": 61,
+    "district_id": 2
+  },
+  {
+    "name": "Ростов-на-Дону",
+    "coordinates": "47.235714,39.701505",
+    "region_id": 61,
+    "district_id": 2
+  },
+  {
+    "name": "Таганрог",
+    "coordinates": "47.241633,38.867601",
+    "region_id": 61,
+    "district_id": 2
+  },
+  {
+    "name": "Шахты",
+    "coordinates": "47.723622,40.235514",
+    "region_id": 61,
+    "district_id": 2
+  },
+  {
+    "name": "Архангельск",
+    "coordinates": "64.547251,40.560155",
+    "region_id": 29,
+    "district_id": 3
+  },
+  {
+    "name": "Коряжма",
+    "coordinates": "61.312557,47.161097",
+    "region_id": 29,
+    "district_id": 3
+  },
+  {
+    "name": "Мирный",
+    "coordinates": "62.531337,113.977388",
+    "region_id": 29,
+    "district_id": 3
+  },
+  {
+    "name": "Новодвинск",
+    "coordinates": "64.428596,40.813530",
+    "region_id": 29,
+    "district_id": 3
+  },
+  {
+    "name": "Северодвинск",
+    "coordinates": "64.566176,39.850598",
+    "region_id": 29,
+    "district_id": 3
+  },
+  {
+    "name": "Вологда",
+    "coordinates": "59.218066,39.897805",
+    "region_id": 35,
+    "district_id": 3
+  },
+  {
+    "name": "Череповец",
+    "coordinates": "59.132333,37.909181",
+    "region_id": 35,
+    "district_id": 3
+  },
+  {
+    "name": "Ладушкин",
+    "coordinates": "54.572877,20.176443",
+    "region_id": 39,
+    "district_id": 3
+  },
+  {
+    "name": "Мамоново",
+    "coordinates": "54.465815,19.934845",
+    "region_id": 39,
+    "district_id": 3
+  },
+  {
+    "name": "Пионерский",
+    "coordinates": "54.942892,20.221625",
+    "region_id": 39,
+    "district_id": 3
+  },
+  {
+    "name": "Светлый",
+    "coordinates": "56.833433,60.581934",
+    "region_id": 39,
+    "district_id": 3
+  },
+  {
+    "name": "Советск",
+    "coordinates": "55.078854,21.878707",
+    "region_id": 39,
+    "district_id": 3
+  },
+  {
+    "name": "Костомукша",
+    "coordinates": "64.595032,30.611549",
+    "region_id": 10,
+    "district_id": 3
+  },
+  {
+    "name": "Петрозаводск",
+    "coordinates": "61.778162,34.364039",
+    "region_id": 10,
+    "district_id": 3
+  },
+  {
+    "name": "Сортавала",
+    "coordinates": "61.704542,30.687902",
+    "region_id": 10,
+    "district_id": 3
+  },
+  {
+    "name": "Воркута",
+    "coordinates": "67.496897,64.060217",
+    "region_id": 11,
+    "district_id": 3
+  },
+  {
+    "name": "Вуктыл",
+    "coordinates": "63.859595,57.317710",
+    "region_id": 11,
+    "district_id": 3
+  },
+  {
+    "name": "Инта",
+    "coordinates": "66.039510,60.130741",
+    "region_id": 11,
+    "district_id": 3
+  },
+  {
+    "name": "Печора",
+    "coordinates": "65.138349,57.190391",
+    "region_id": 11,
+    "district_id": 3
+  },
+  {
+    "name": "Сосногорск",
+    "coordinates": "63.593219,53.906853",
+    "region_id": 11,
+    "district_id": 3
+  },
+  {
+    "name": "Сыктывкар",
+    "coordinates": "61.647851,50.833903",
+    "region_id": 11,
+    "district_id": 3
+  },
+  {
+    "name": "Усинск",
+    "coordinates": "65.999169,57.524329",
+    "region_id": 11,
+    "district_id": 3
+  },
+  {
+    "name": "Ухта",
+    "coordinates": "63.567321,53.747159",
+    "region_id": 11,
+    "district_id": 3
+  },
+  {
+    "name": "Сосновый Бор",
+    "coordinates": "59.869673,29.085648",
+    "region_id": 47,
+    "district_id": 3
+  },
+  {
+    "name": "Апатиты",
+    "coordinates": "67.577788,33.390416",
+    "region_id": 51,
+    "district_id": 3
+  },
+  {
+    "name": "Гаджиево",
+    "coordinates": "69.251016,33.320091",
+    "region_id": 51,
+    "district_id": 3
+  },
+  {
+    "name": "Заозерск",
+    "coordinates": "69.405460,32.442513",
+    "region_id": 51,
+    "district_id": 3
+  },
+  {
+    "name": "Кандалакша",
+    "coordinates": "67.170051,32.422966",
+    "region_id": 51,
+    "district_id": 3
+  },
+  {
+    "name": "Кировск",
+    "coordinates": "67.610736,33.672401",
+    "region_id": 51,
+    "district_id": 3
+  },
+  {
+    "name": "Мончегорск",
+    "coordinates": "67.943134,32.891956",
+    "region_id": 51,
+    "district_id": 3
+  },
+  {
+    "name": "Мурманск",
+    "coordinates": "68.958524,33.082660",
+    "region_id": 51,
+    "district_id": 3
+  },
+  {
+    "name": "Оленегорск",
+    "coordinates": "68.142461,33.257392",
+    "region_id": 51,
+    "district_id": 3
+  },
+  {
+    "name": "Оленегорск-1",
+    "coordinates": "48.689083,44.455728",
+    "region_id": 51,
+    "district_id": 3
+  },
+  {
+    "name": "Оленегорск-2",
+    "coordinates": "48.689465,44.455469",
+    "region_id": 51,
+    "district_id": 3
+  },
+  {
+    "name": "Оленегорск-4",
+    "coordinates": "68.135356,33.275676",
+    "region_id": 51,
+    "district_id": 3
+  },
+  {
+    "name": "Островной",
+    "coordinates": "45.812411,135.284897",
+    "region_id": 51,
+    "district_id": 3
+  },
+  {
+    "name": "Полярные Зори",
+    "coordinates": "67.374401,32.488946",
+    "region_id": 51,
+    "district_id": 3
+  },
+  {
+    "name": "Полярный",
+    "coordinates": "69.198673,33.439448",
+    "region_id": 51,
+    "district_id": 3
+  },
+  {
+    "name": "Североморск",
+    "coordinates": "69.065506,33.409269",
+    "region_id": 51,
+    "district_id": 3
+  },
+  {
+    "name": "Снежногорск",
+    "coordinates": "69.188234,33.245483",
+    "region_id": 51,
+    "district_id": 3
+  },
+  {
+    "name": "Великий Новгород",
+    "coordinates": "58.525570,31.274193",
+    "region_id": 53,
+    "district_id": 3
+  },
+  {
+    "name": "Великие Луки",
+    "coordinates": "56.339609,30.531475",
+    "region_id": 60,
+    "district_id": 3
+  },
+  {
+    "name": "Псков",
+    "coordinates": "57.816699,28.334474",
+    "region_id": 60,
+    "district_id": 3
+  },
+  {
+    "name": "Зеленогорск",
+    "coordinates": "60.196715,29.700692",
+    "region_id": 78,
+    "district_id": 3
+  },
+  {
+    "name": "Колпино",
+    "coordinates": "59.761761,30.578897",
+    "region_id": 78,
+    "district_id": 3
+  },
+  {
+    "name": "Красное Село",
+    "coordinates": "59.734385,30.084445",
+    "region_id": 78,
+    "district_id": 3
+  },
+  {
+    "name": "Кронштадт",
+    "coordinates": "59.995930,29.765545",
+    "region_id": 78,
+    "district_id": 3
+  },
+  {
+    "name": "Ломоносов",
+    "coordinates": "59.910701,29.735961",
+    "region_id": 78,
+    "district_id": 3
+  },
+  {
+    "name": "Павловск",
+    "coordinates": "59.681198,30.444376",
+    "region_id": 78,
+    "district_id": 3
+  },
+  {
+    "name": "Петергоф",
+    "coordinates": "59.886304,29.908598",
+    "region_id": 78,
+    "district_id": 3
+  },
+  {
+    "name": "Пушкин",
+    "coordinates": "59.941095,30.320679",
+    "region_id": 78,
+    "district_id": 3
+  },
+  {
+    "name": "Сестрорецк",
+    "coordinates": "60.101453,29.957360",
+    "region_id": 78,
+    "district_id": 3
+  },
+  {
+    "name": "Белогорск",
+    "coordinates": "50.919895,128.483383",
+    "region_id": 28,
+    "district_id": 4
+  },
+  {
+    "name": "Благовещенск",
+    "coordinates": "50.272776,127.540402",
+    "region_id": 28,
+    "district_id": 4
+  },
+  {
+    "name": "Зея",
+    "coordinates": "53.735930,127.258521",
+    "region_id": 28,
+    "district_id": 4
+  },
+  {
+    "name": "Райчихинск",
+    "coordinates": "49.788397,129.409868",
+    "region_id": 28,
+    "district_id": 4
+  },
+  {
+    "name": "Свободный",
+    "coordinates": "51.376866,128.134722",
+    "region_id": 28,
+    "district_id": 4
+  },
+  {
+    "name": "Тында",
+    "coordinates": "55.143833,124.741377",
+    "region_id": 28,
+    "district_id": 4
+  },
+  {
+    "name": "Шимановск",
+    "coordinates": "51.996978,127.685588",
+    "region_id": 28,
+    "district_id": 4
+  },
+  {
+    "name": "Биробиджан",
+    "coordinates": "48.780357,132.913074",
+    "region_id": 79,
+    "district_id": 4
+  },
+  {
+    "name": "Вилючинск",
+    "coordinates": "52.931030,158.404776",
+    "region_id": 41,
+    "district_id": 4
+  },
+  {
+    "name": "Петропавловск-Камчатский",
+    "coordinates": "53.040911,158.677726",
+    "region_id": 41,
+    "district_id": 4
+  },
+  {
+    "name": "Магадан",
+    "coordinates": "59.561152,150.830141",
+    "region_id": 49,
+    "district_id": 4
+  },
+  {
+    "name": "Арсеньев",
+    "coordinates": "44.158043,133.264547",
+    "region_id": 25,
+    "district_id": 4
+  },
+  {
+    "name": "Артем",
+    "coordinates": "43.369661,132.172475",
+    "region_id": 25,
+    "district_id": 4
+  },
+  {
+    "name": "Большой Камень",
+    "coordinates": "43.112474,132.345166",
+    "region_id": 25,
+    "district_id": 4
+  },
+  {
+    "name": "Владивосток",
+    "coordinates": "43.119809,131.886924",
+    "region_id": 25,
+    "district_id": 4
+  },
+  {
+    "name": "Дальнегорск",
+    "coordinates": "44.557395,135.622719",
+    "region_id": 25,
+    "district_id": 4
+  },
+  {
+    "name": "Дальнереченск",
+    "coordinates": "45.929455,133.742790",
+    "region_id": 25,
+    "district_id": 4
+  },
+  {
+    "name": "Лесозаводск",
+    "coordinates": "45.471517,133.410117",
+    "region_id": 25,
+    "district_id": 4
+  },
+  {
+    "name": "Находка",
+    "coordinates": "42.822275,132.883404",
+    "region_id": 25,
+    "district_id": 4
+  },
+  {
+    "name": "Партизанск",
+    "coordinates": "43.127645,133.125214",
+    "region_id": 25,
+    "district_id": 4
+  },
+  {
+    "name": "Спасск-Дальний",
+    "coordinates": "44.595572,132.830291",
+    "region_id": 25,
+    "district_id": 4
+  },
+  {
+    "name": "Уссурийск",
+    "coordinates": "43.802313,131.963089",
+    "region_id": 25,
+    "district_id": 4
+  },
+  {
+    "name": "Фокино",
+    "coordinates": "42.975556,132.414598",
+    "region_id": 25,
+    "district_id": 4
+  },
+  {
+    "name": "Нерюнгри",
+    "coordinates": "56.661427,124.705816",
+    "region_id": 14,
+    "district_id": 4
+  },
+  {
+    "name": "Якутск",
+    "coordinates": "62.035452,129.675475",
+    "region_id": 14,
+    "district_id": 4
+  },
+  {
+    "name": "Южно-Сахалинск",
+    "coordinates": "46.964113,142.734756",
+    "region_id": 65,
+    "district_id": 4
+  },
+  {
+    "name": "Амурск",
+    "coordinates": "50.226651,136.895263",
+    "region_id": 27,
+    "district_id": 4
+  },
+  {
+    "name": "Бикин",
+    "coordinates": "46.827948,134.246441",
+    "region_id": 27,
+    "district_id": 4
+  },
+  {
+    "name": "Комсомольск-на-Амуре",
+    "coordinates": "50.567033,136.965895",
+    "region_id": 27,
+    "district_id": 4
+  },
+  {
+    "name": "Николаевск-на-Амуре",
+    "coordinates": "53.142390,140.731471",
+    "region_id": 27,
+    "district_id": 4
+  },
+  {
+    "name": "Советская Гавань",
+    "coordinates": "48.975523,140.265355",
+    "region_id": 27,
+    "district_id": 4
+  },
+  {
+    "name": "Хабаровск",
+    "coordinates": "48.515784,135.101171",
+    "region_id": 27,
+    "district_id": 4
+  },
+  {
+    "name": "Горно-Алтайск",
+    "coordinates": "51.942186,85.971936",
+    "region_id": 4,
+    "district_id": 5
+  },
+  {
+    "name": "Алейск",
+    "coordinates": "52.493459,82.780614",
+    "region_id": 22,
+    "district_id": 5
+  },
+  {
+    "name": "Барнаул",
+    "coordinates": "53.354779,83.769783",
+    "region_id": 22,
+    "district_id": 5
+  },
+  {
+    "name": "Белокуриха",
+    "coordinates": "51.994825,84.993556",
+    "region_id": 22,
+    "district_id": 5
+  },
+  {
+    "name": "Бийск",
+    "coordinates": "52.507275,85.147200",
+    "region_id": 22,
+    "district_id": 5
+  },
+  {
+    "name": "Заринск",
+    "coordinates": "53.727380,84.926507",
+    "region_id": 22,
+    "district_id": 5
+  },
+  {
+    "name": "Камень-на-Оби",
+    "coordinates": "53.781140,81.313461",
+    "region_id": 22,
+    "district_id": 5
+  },
+  {
+    "name": "Новоалтайск",
+    "coordinates": "53.441572,83.920835",
+    "region_id": 22,
+    "district_id": 5
+  },
+  {
+    "name": "Рубцовск",
+    "coordinates": "51.514040,81.231768",
+    "region_id": 22,
+    "district_id": 5
+  },
+  {
+    "name": "Славгород",
+    "coordinates": "52.993004,78.638656",
+    "region_id": 22,
+    "district_id": 5
+  },
+  {
+    "name": "Яровое",
+    "coordinates": "52.932275,78.573113",
+    "region_id": 22,
+    "district_id": 5
+  },
+  {
+    "name": "Северобайкальск",
+    "coordinates": "55.627858,109.314916",
+    "region_id": 3,
+    "district_id": 5
+  },
+  {
+    "name": "Улан-Удэ",
+    "coordinates": "51.823878,107.607338",
+    "region_id": 3,
+    "district_id": 5
+  },
+  {
+    "name": "Чита",
+    "coordinates": "52.051503,113.471191",
+    "region_id": 75,
+    "district_id": 5
+  },
+  {
+    "name": "Ангарск",
+    "coordinates": "52.515570,103.917160",
+    "region_id": 38,
+    "district_id": 5
+  },
+  {
+    "name": "Бодайбо",
+    "coordinates": "57.854034,114.201197",
+    "region_id": 38,
+    "district_id": 5
+  },
+  {
+    "name": "Братск",
+    "coordinates": "56.173766,101.603898",
+    "region_id": 38,
+    "district_id": 5
+  },
+  {
+    "name": "Зима",
+    "coordinates": "53.922585,102.042387",
+    "region_id": 38,
+    "district_id": 5
+  },
+  {
+    "name": "Иркутск",
+    "coordinates": "52.286974,104.305018",
+    "region_id": 38,
+    "district_id": 5
+  },
+  {
+    "name": "Иркутск-45",
+    "coordinates": "52.335831,104.189427",
+    "region_id": 38,
+    "district_id": 5
+  },
+  {
+    "name": "Нижнеудинск",
+    "coordinates": "54.901928,99.024836",
+    "region_id": 38,
+    "district_id": 5
+  },
+  {
+    "name": "Саянск",
+    "coordinates": "54.106507,102.188850",
+    "region_id": 38,
+    "district_id": 5
+  },
+  {
+    "name": "Свирск",
+    "coordinates": "53.090767,103.336946",
+    "region_id": 38,
+    "district_id": 5
+  },
+  {
+    "name": "Тайшет",
+    "coordinates": "55.932147,98.010575",
+    "region_id": 38,
+    "district_id": 5
+  },
+  {
+    "name": "Тулун",
+    "coordinates": "54.569908,100.581756",
+    "region_id": 38,
+    "district_id": 5
+  },
+  {
+    "name": "Усолье-Сибирское",
+    "coordinates": "52.766424,103.638171",
+    "region_id": 38,
+    "district_id": 5
+  },
+  {
+    "name": "Усть-Илимск",
+    "coordinates": "57.984541,102.739595",
+    "region_id": 38,
+    "district_id": 5
+  },
+  {
+    "name": "Усть-Кут",
+    "coordinates": "56.791039,105.776868",
+    "region_id": 38,
+    "district_id": 5
+  },
+  {
+    "name": "Черемхово",
+    "coordinates": "53.140056,103.093976",
+    "region_id": 38,
+    "district_id": 5
+  },
+  {
+    "name": "Шелехов",
+    "coordinates": "52.207540,104.098831",
+    "region_id": 38,
+    "district_id": 5
+  },
+  {
+    "name": "Анжеро-Судженск",
+    "coordinates": "56.095457,85.995509",
+    "region_id": 42,
+    "district_id": 5
+  },
+  {
+    "name": "Белово",
+    "coordinates": "54.410297,86.293695",
+    "region_id": 42,
+    "district_id": 5
+  },
+  {
+    "name": "Березовский",
+    "coordinates": "56.908879,60.795006",
+    "region_id": 42,
+    "district_id": 5
+  },
+  {
+    "name": "Калтан",
+    "coordinates": "53.521625,87.269157",
+    "region_id": 42,
+    "district_id": 5
+  },
+  {
+    "name": "Кемерово",
+    "coordinates": "55.345023,86.062304",
+    "region_id": 42,
+    "district_id": 5
+  },
+  {
+    "name": "Киселевск",
+    "coordinates": "54.005524,86.649758",
+    "region_id": 42,
+    "district_id": 5
+  },
+  {
+    "name": "Ленинск-Кузнецкий",
+    "coordinates": "54.669913,86.173454",
+    "region_id": 42,
+    "district_id": 5
+  },
+  {
+    "name": "Междуреченск",
+    "coordinates": "53.683630,88.081392",
+    "region_id": 42,
+    "district_id": 5
+  },
+  {
+    "name": "Мыски",
+    "coordinates": "53.711380,87.802202",
+    "region_id": 42,
+    "district_id": 5
+  },
+  {
+    "name": "Новокузнецк",
+    "coordinates": "53.759594,87.121570",
+    "region_id": 42,
+    "district_id": 5
+  },
+  {
+    "name": "Осинники",
+    "coordinates": "53.631495,87.338093",
+    "region_id": 42,
+    "district_id": 5
+  },
+  {
+    "name": "Полысаево",
+    "coordinates": "54.603453,86.276016",
+    "region_id": 42,
+    "district_id": 5
+  },
+  {
+    "name": "Прокопьевск",
+    "coordinates": "53.888753,86.759183",
+    "region_id": 42,
+    "district_id": 5
+  },
+  {
+    "name": "Тайга",
+    "coordinates": "56.065033,85.633576",
+    "region_id": 42,
+    "district_id": 5
+  },
+  {
+    "name": "Юрга",
+    "coordinates": "55.729764,84.894452",
+    "region_id": 42,
+    "district_id": 5
+  },
+  {
+    "name": "Ачинск",
+    "coordinates": "56.236084,90.490315",
+    "region_id": 24,
+    "district_id": 5
+  },
+  {
+    "name": "Боготол",
+    "coordinates": "56.213849,89.538204",
+    "region_id": 24,
+    "district_id": 5
+  },
+  {
+    "name": "Бородино",
+    "coordinates": "55.529267,35.823394",
+    "region_id": 24,
+    "district_id": 5
+  },
+  {
+    "name": "Дивногорск",
+    "coordinates": "55.960443,92.371078",
+    "region_id": 24,
+    "district_id": 5
+  },
+  {
+    "name": "Енисейск",
+    "coordinates": "58.450100,92.186769",
+    "region_id": 24,
+    "district_id": 5
+  },
+  {
+    "name": "Железногорск",
+    "coordinates": "56.234356,93.488816",
+    "region_id": 24,
+    "district_id": 5
+  },
+  {
+    "name": "Заозерный",
+    "coordinates": "55.974213,94.709633",
+    "region_id": 24,
+    "district_id": 5
+  },
+  {
+    "name": "Зеленогорск",
+    "coordinates": "60.196715,29.700692",
+    "region_id": 24,
+    "district_id": 5
+  },
+  {
+    "name": "Кайеркан",
+    "coordinates": "69.366667,87.733333",
+    "region_id": 24,
+    "district_id": 5
+  },
+  {
+    "name": "Канск",
+    "coordinates": "56.216814,95.719815",
+    "region_id": 24,
+    "district_id": 5
+  },
+  {
+    "name": "Красноярск",
+    "coordinates": "56.015283,92.893248",
+    "region_id": 24,
+    "district_id": 5
+  },
+  {
+    "name": "Лесосибирск",
+    "coordinates": "58.227618,92.496032",
+    "region_id": 24,
+    "district_id": 5
+  },
+  {
+    "name": "Минусинск",
+    "coordinates": "53.697821,91.696317",
+    "region_id": 24,
+    "district_id": 5
+  },
+  {
+    "name": "Назарово",
+    "coordinates": "56.013195,90.402565",
+    "region_id": 24,
+    "district_id": 5
+  },
+  {
+    "name": "Норильск",
+    "coordinates": "69.355790,88.189294",
+    "region_id": 24,
+    "district_id": 5
+  },
+  {
+    "name": "Сосновоборск",
+    "coordinates": "56.123153,93.340080",
+    "region_id": 24,
+    "district_id": 5
+  },
+  {
+    "name": "Талнах",
+    "coordinates": "69.500000,88.400000",
+    "region_id": 24,
+    "district_id": 5
+  },
+  {
+    "name": "Шарыпово",
+    "coordinates": "55.522254,89.220532",
+    "region_id": 24,
+    "district_id": 5
+  },
+  {
+    "name": "Барабинск",
+    "coordinates": "55.346360,78.346685",
+    "region_id": 54,
+    "district_id": 5
+  },
+  {
+    "name": "Бердск",
+    "coordinates": "54.775064,83.080031",
+    "region_id": 54,
+    "district_id": 5
+  },
+  {
+    "name": "Искитим",
+    "coordinates": "54.642619,83.308300",
+    "region_id": 54,
+    "district_id": 5
+  },
+  {
+    "name": "Куйбышев",
+    "coordinates": "55.447652,78.311387",
+    "region_id": 54,
+    "district_id": 5
+  },
+  {
+    "name": "Новосибирск",
+    "coordinates": "55.008353,82.935733",
+    "region_id": 54,
+    "district_id": 5
+  },
+  {
+    "name": "Обь",
+    "coordinates": "59.656797,74.728165",
+    "region_id": 54,
+    "district_id": 5
+  },
+  {
+    "name": "Татарск",
+    "coordinates": "55.193653,75.968454",
+    "region_id": 54,
+    "district_id": 5
+  },
+  {
+    "name": "Омск",
+    "coordinates": "54.988480,73.324236",
+    "region_id": 55,
+    "district_id": 5
+  },
+  {
+    "name": "Кедровый",
+    "coordinates": "57.562148,79.567318",
+    "region_id": 70,
+    "district_id": 5
+  },
+  {
+    "name": "Северск",
+    "coordinates": "56.602678,84.880648",
+    "region_id": 70,
+    "district_id": 5
+  },
+  {
+    "name": "Стрежевой",
+    "coordinates": "60.724111,77.581375",
+    "region_id": 70,
+    "district_id": 5
+  },
+  {
+    "name": "Томск",
+    "coordinates": "56.501040,84.992451",
+    "region_id": 70,
+    "district_id": 5
+  },
+  {
+    "name": "Ак-Довурак",
+    "coordinates": "51.172748,90.588775",
+    "region_id": 17,
+    "district_id": 5
+  },
+  {
+    "name": "Кызыл",
+    "coordinates": "51.715083,94.457480",
+    "region_id": 17,
+    "district_id": 5
+  },
+  {
+    "name": "Абаза",
+    "coordinates": "52.622592,90.079410",
+    "region_id": 19,
+    "district_id": 5
+  },
+  {
+    "name": "Абакан",
+    "coordinates": "53.717564,91.429317",
+    "region_id": 19,
+    "district_id": 5
+  },
+  {
+    "name": "Саяногорск",
+    "coordinates": "53.096619,91.416452",
+    "region_id": 19,
+    "district_id": 5
+  },
+  {
+    "name": "Сорск",
+    "coordinates": "54.000144,90.247665",
+    "region_id": 19,
+    "district_id": 5
+  },
+  {
+    "name": "Черногорск",
+    "coordinates": "53.824709,91.322872",
+    "region_id": 19,
+    "district_id": 5
+  },
+  {
+    "name": "Курган",
+    "coordinates": "55.464911,65.305351",
+    "region_id": 45,
+    "district_id": 6
+  },
+  {
+    "name": "Шадринск",
+    "coordinates": "56.088256,63.634265",
+    "region_id": 45,
+    "district_id": 6
+  },
+  {
+    "name": "Алапаевск",
+    "coordinates": "57.848349,61.688030",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Асбест",
+    "coordinates": "57.005257,61.458096",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Березовский",
+    "coordinates": "56.908879,60.795006",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Верхний Тагил",
+    "coordinates": "57.369654,59.941087",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Верхняя Пышма",
+    "coordinates": "56.966483,60.586416",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Верхняя Тура",
+    "coordinates": "58.363471,59.810034",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Волчанск",
+    "coordinates": "59.930214,60.086211",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Дегтярск",
+    "coordinates": "56.698003,60.102074",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Екатеринбург",
+    "coordinates": "56.838926,60.605702",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Заречный",
+    "coordinates": "56.805799,61.323812",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Ивдель",
+    "coordinates": "60.692338,60.431650",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Ирбит",
+    "coordinates": "57.668013,63.063205",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Каменск-Уральский",
+    "coordinates": "56.425339,61.922298",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Камышлов",
+    "coordinates": "56.852264,62.708235",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Карпинск",
+    "coordinates": "59.765398,60.013485",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Качканар",
+    "coordinates": "58.697859,59.492904",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Кировград",
+    "coordinates": "57.416051,60.070580",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Краснотурьинск",
+    "coordinates": "59.765062,60.215883",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Красноуральск",
+    "coordinates": "58.330297,60.071332",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Красноуфимск",
+    "coordinates": "56.615307,57.753675",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Кушва",
+    "coordinates": "58.285735,59.777631",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Лесной",
+    "coordinates": "58.633315,59.783258",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Нижний Тагил",
+    "coordinates": "57.921491,59.981619",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Нижняя Салда",
+    "coordinates": "58.072634,60.733583",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Нижняя Тура",
+    "coordinates": "58.627704,59.855890",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Новоуральск",
+    "coordinates": "57.257524,60.083449",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Первоуральск",
+    "coordinates": "56.899916,59.952113",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Полевской",
+    "coordinates": "56.482482,60.244648",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Ревда",
+    "coordinates": "56.818850,59.903640",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Североуральск",
+    "coordinates": "60.155308,59.964636",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Серов",
+    "coordinates": "59.610464,60.617743",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Среднеуральск",
+    "coordinates": "56.985920,60.470107",
+    "region_id": 66,
+    "district_id": 6
+  },
+  {
+    "name": "Тобольск",
+    "coordinates": "58.200024,68.263523",
+    "region_id": 72,
+    "district_id": 6
+  },
+  {
+    "name": "Тюмень",
+    "coordinates": "57.161298,65.525017",
+    "region_id": 72,
+    "district_id": 6
+  },
+  {
+    "name": "Верхний Уфалей",
+    "coordinates": "56.058903,60.223868",
+    "region_id": 74,
+    "district_id": 6
+  },
+  {
+    "name": "Златоуст",
+    "coordinates": "55.155879,59.685885",
+    "region_id": 74,
+    "district_id": 6
+  },
+  {
+    "name": "Карабаш",
+    "coordinates": "55.477739,60.199568",
+    "region_id": 74,
+    "district_id": 6
+  },
+  {
+    "name": "Копейск",
+    "coordinates": "55.133969,61.645764",
+    "region_id": 74,
+    "district_id": 6
+  },
+  {
+    "name": "Кыштым",
+    "coordinates": "55.717471,60.552127",
+    "region_id": 74,
+    "district_id": 6
+  },
+  {
+    "name": "Магнитогорск",
+    "coordinates": "53.412943,59.001623",
+    "region_id": 74,
+    "district_id": 6
+  },
+  {
+    "name": "Миасс",
+    "coordinates": "55.050679,60.103496",
+    "region_id": 74,
+    "district_id": 6
+  },
+  {
+    "name": "Озерск",
+    "coordinates": "55.713810,60.700959",
+    "region_id": 74,
+    "district_id": 6
+  },
+  {
+    "name": "Снежинск",
+    "coordinates": "56.057173,60.754399",
+    "region_id": 74,
+    "district_id": 6
+  },
+  {
+    "name": "Трехгорный",
+    "coordinates": "54.817651,58.445493",
+    "region_id": 74,
+    "district_id": 6
+  },
+  {
+    "name": "Трехгорный-1",
+    "coordinates": "54.818398,58.442200",
+    "region_id": 74,
+    "district_id": 6
+  },
+  {
+    "name": "Троицк",
+    "coordinates": "54.074757,61.567051",
+    "region_id": 74,
+    "district_id": 6
+  },
+  {
+    "name": "Усть-Катав",
+    "coordinates": "54.931170,58.164571",
+    "region_id": 74,
+    "district_id": 6
+  },
+  {
+    "name": "Чебаркуль",
+    "coordinates": "54.981070,60.385617",
+    "region_id": 74,
+    "district_id": 6
+  },
+  {
+    "name": "Челябинск",
+    "coordinates": "55.164442,61.436843",
+    "region_id": 74,
+    "district_id": 6
+  },
+  {
+    "name": "Южноуральск",
+    "coordinates": "54.442065,61.260629",
+    "region_id": 74,
+    "district_id": 6
+  },
+  {
+    "name": "Агидель",
+    "coordinates": "55.900544,53.933435",
+    "region_id": 2,
+    "district_id": 7
+  },
+  {
+    "name": "Кумертау",
+    "coordinates": "52.763739,55.811568",
+    "region_id": 2,
+    "district_id": 7
+  },
+  {
+    "name": "Межгорье",
+    "coordinates": "54.050000,57.816667",
+    "region_id": 2,
+    "district_id": 7
+  },
+  {
+    "name": "Нефтекамск",
+    "coordinates": "56.102608,54.286739",
+    "region_id": 2,
+    "district_id": 7
+  },
+  {
+    "name": "Октябрьский",
+    "coordinates": "54.477201,53.489539",
+    "region_id": 2,
+    "district_id": 7
+  },
+  {
+    "name": "Салават",
+    "coordinates": "53.386044,55.925947",
+    "region_id": 2,
+    "district_id": 7
+  },
+  {
+    "name": "Сибай",
+    "coordinates": "52.713359,58.668136",
+    "region_id": 2,
+    "district_id": 7
+  },
+  {
+    "name": "Стерлитамак",
+    "coordinates": "53.655435,55.943893",
+    "region_id": 2,
+    "district_id": 7
+  },
+  {
+    "name": "Уфа",
+    "coordinates": "54.738762,55.972055",
+    "region_id": 2,
+    "district_id": 7
+  },
+  {
+    "name": "Киров",
+    "coordinates": "58.603532,49.666798",
+    "region_id": 43,
+    "district_id": 7
+  },
+  {
+    "name": "Волжск",
+    "coordinates": "55.872277,48.356852",
+    "region_id": 12,
+    "district_id": 7
+  },
+  {
+    "name": "Йошкар-Ола",
+    "coordinates": "56.640223,47.883858",
+    "region_id": 12,
+    "district_id": 7
+  },
+  {
+    "name": "Козьмодемьянск",
+    "coordinates": "56.329418,46.553016",
+    "region_id": 12,
+    "district_id": 7
+  },
+  {
+    "name": "Саранск",
+    "coordinates": "54.200048,45.174512",
+    "region_id": 13,
+    "district_id": 7
+  },
+  {
+    "name": "Арзамас",
+    "coordinates": "55.396461,43.829918",
+    "region_id": 52,
+    "district_id": 7
+  },
+  {
+    "name": "Бор",
+    "coordinates": "56.358830,44.076680",
+    "region_id": 52,
+    "district_id": 7
+  },
+  {
+    "name": "Выкса",
+    "coordinates": "55.326215,42.170170",
+    "region_id": 52,
+    "district_id": 7
+  },
+  {
+    "name": "Дзержинск",
+    "coordinates": "56.244099,43.435181",
+    "region_id": 52,
+    "district_id": 7
+  },
+  {
+    "name": "Нижний Новгород",
+    "coordinates": "56.296504,43.936059",
+    "region_id": 52,
+    "district_id": 7
+  },
+  {
+    "name": "Саров",
+    "coordinates": "54.934279,43.325250",
+    "region_id": 52,
+    "district_id": 7
+  },
+  {
+    "name": "Семенов",
+    "coordinates": "56.788948,44.501832",
+    "region_id": 52,
+    "district_id": 7
+  },
+  {
+    "name": "Бугуруслан",
+    "coordinates": "53.623405,52.433222",
+    "region_id": 56,
+    "district_id": 7
+  },
+  {
+    "name": "Бузулук",
+    "coordinates": "52.773283,52.261325",
+    "region_id": 56,
+    "district_id": 7
+  },
+  {
+    "name": "Гай",
+    "coordinates": "51.473158,58.455201",
+    "region_id": 56,
+    "district_id": 7
+  },
+  {
+    "name": "Кувандык",
+    "coordinates": "51.479495,57.364103",
+    "region_id": 56,
+    "district_id": 7
+  },
+  {
+    "name": "Медногорск",
+    "coordinates": "51.396870,57.608466",
+    "region_id": 56,
+    "district_id": 7
+  },
+  {
+    "name": "Новотроицк",
+    "coordinates": "51.201105,58.298754",
+    "region_id": 56,
+    "district_id": 7
+  },
+  {
+    "name": "Оренбург",
+    "coordinates": "51.766648,55.100454",
+    "region_id": 56,
+    "district_id": 7
+  },
+  {
+    "name": "Орск",
+    "coordinates": "51.214524,58.544057",
+    "region_id": 56,
+    "district_id": 7
+  },
+  {
+    "name": "Сорочинск",
+    "coordinates": "52.424332,53.155701",
+    "region_id": 56,
+    "district_id": 7
+  },
+  {
+    "name": "Заречный",
+    "coordinates": "56.805799,61.323812",
+    "region_id": 58,
+    "district_id": 7
+  },
+  {
+    "name": "Пенза",
+    "coordinates": "53.227290,45.000000",
+    "region_id": 58,
+    "district_id": 7
+  },
+  {
+    "name": "Александровск",
+    "coordinates": "59.156233,57.594216",
+    "region_id": 59,
+    "district_id": 7
+  },
+  {
+    "name": "Березники",
+    "coordinates": "59.413183,56.784932",
+    "region_id": 59,
+    "district_id": 7
+  },
+  {
+    "name": "Гремячинск",
+    "coordinates": "58.548355,57.834447",
+    "region_id": 59,
+    "district_id": 7
+  },
+  {
+    "name": "Губаха",
+    "coordinates": "58.838948,57.554426",
+    "region_id": 59,
+    "district_id": 7
+  },
+  {
+    "name": "Добрянка",
+    "coordinates": "58.470478,56.423226",
+    "region_id": 59,
+    "district_id": 7
+  },
+  {
+    "name": "Кизел",
+    "coordinates": "59.054873,57.623832",
+    "region_id": 59,
+    "district_id": 7
+  },
+  {
+    "name": "Кудымкар",
+    "coordinates": "59.006998,54.664387",
+    "region_id": 59,
+    "district_id": 7
+  },
+  {
+    "name": "Кунгур",
+    "coordinates": "57.431641,56.939712",
+    "region_id": 59,
+    "district_id": 7
+  },
+  {
+    "name": "Лысьва",
+    "coordinates": "58.107205,57.788851",
+    "region_id": 59,
+    "district_id": 7
+  },
+  {
+    "name": "Пермь",
+    "coordinates": "58.029681,56.266792",
+    "region_id": 59,
+    "district_id": 7
+  },
+  {
+    "name": "Соликамск",
+    "coordinates": "59.672033,56.755767",
+    "region_id": 59,
+    "district_id": 7
+  },
+  {
+    "name": "Чайковский",
+    "coordinates": "56.766116,54.127671",
+    "region_id": 59,
+    "district_id": 7
+  },
+  {
+    "name": "Чусовой",
+    "coordinates": "58.275433,57.831415",
+    "region_id": 59,
+    "district_id": 7
+  },
+  {
+    "name": "Жигулевск",
+    "coordinates": "53.390725,49.472270",
+    "region_id": 63,
+    "district_id": 7
+  },
+  {
+    "name": "Кинель",
+    "coordinates": "53.221013,50.634392",
+    "region_id": 63,
+    "district_id": 7
+  },
+  {
+    "name": "Новокуйбышевск",
+    "coordinates": "53.096067,49.891289",
+    "region_id": 63,
+    "district_id": 7
+  },
+  {
+    "name": "Октябрьск",
+    "coordinates": "53.183533,48.769042",
+    "region_id": 63,
+    "district_id": 7
+  },
+  {
+    "name": "Отрадный",
+    "coordinates": "53.376990,51.340210",
+    "region_id": 63,
+    "district_id": 7
+  },
+  {
+    "name": "Похвистнево",
+    "coordinates": "53.648206,52.122954",
+    "region_id": 63,
+    "district_id": 7
+  },
+  {
+    "name": "Самара",
+    "coordinates": "53.241504,50.221246",
+    "region_id": 63,
+    "district_id": 7
+  },
+  {
+    "name": "Сызрань",
+    "coordinates": "53.150450,48.397896",
+    "region_id": 63,
+    "district_id": 7
+  },
+  {
+    "name": "Тольятти",
+    "coordinates": "53.508600,49.419834",
+    "region_id": 63,
+    "district_id": 7
+  },
+  {
+    "name": "Чапаевск",
+    "coordinates": "52.969666,49.706732",
+    "region_id": 63,
+    "district_id": 7
+  },
+  {
+    "name": "Аткарск",
+    "coordinates": "51.874029,45.000000",
+    "region_id": 64,
+    "district_id": 7
+  },
+  {
+    "name": "Балаково",
+    "coordinates": "52.024559,47.780663",
+    "region_id": 64,
+    "district_id": 7
+  },
+  {
+    "name": "Балашов",
+    "coordinates": "51.543181,43.177096",
+    "region_id": 64,
+    "district_id": 7
+  },
+  {
+    "name": "Вольск",
+    "coordinates": "52.049708,47.369227",
+    "region_id": 64,
+    "district_id": 7
+  },
+  {
+    "name": "Красноармейск",
+    "coordinates": "56.106091,38.139242",
+    "region_id": 64,
+    "district_id": 7
+  },
+  {
+    "name": "Маркс",
+    "coordinates": "51.710612,46.748481",
+    "region_id": 64,
+    "district_id": 7
+  },
+  {
+    "name": "Петровск",
+    "coordinates": "52.314403,45.388255",
+    "region_id": 64,
+    "district_id": 7
+  },
+  {
+    "name": "Пугачев",
+    "coordinates": "52.027401,48.799294",
+    "region_id": 64,
+    "district_id": 7
+  },
+  {
+    "name": "Ртищево",
+    "coordinates": "52.260073,43.781435",
+    "region_id": 64,
+    "district_id": 7
+  },
+  {
+    "name": "Саратов",
+    "coordinates": "51.592365,45.960803",
+    "region_id": 64,
+    "district_id": 7
+  },
+  {
+    "name": "Хвалынск",
+    "coordinates": "52.501019,48.092330",
+    "region_id": 64,
+    "district_id": 7
+  },
+  {
+    "name": "Шиханы",
+    "coordinates": "52.117364,47.207650",
+    "region_id": 64,
+    "district_id": 7
+  },
+  {
+    "name": "Энгельс",
+    "coordinates": "51.475330,46.113677",
+    "region_id": 64,
+    "district_id": 7
+  },
+  {
+    "name": "Энгельс-19",
+    "coordinates": "51.715134,36.165141",
+    "region_id": 64,
+    "district_id": 7
+  },
+  {
+    "name": "Энгельс-2",
+    "coordinates": "51.495657,46.152582",
+    "region_id": 64,
+    "district_id": 7
+  },
+  {
+    "name": "Казань",
+    "coordinates": "55.830431,49.066081",
+    "region_id": 16,
+    "district_id": 7
+  },
+  {
+    "name": "Набережные Челны",
+    "coordinates": "55.718505,52.372104",
+    "region_id": 16,
+    "district_id": 7
+  },
+  {
+    "name": "Воткинск",
+    "coordinates": "57.040944,53.976930",
+    "region_id": 18,
+    "district_id": 7
+  },
+  {
+    "name": "Глазов",
+    "coordinates": "58.136884,52.654834",
+    "region_id": 18,
+    "district_id": 7
+  },
+  {
+    "name": "Ижевск",
+    "coordinates": "56.861860,53.232428",
+    "region_id": 18,
+    "district_id": 7
+  },
+  {
+    "name": "Можга",
+    "coordinates": "56.438044,52.211660",
+    "region_id": 18,
+    "district_id": 7
+  },
+  {
+    "name": "Сарапул",
+    "coordinates": "56.452146,53.783363",
+    "region_id": 18,
+    "district_id": 7
+  },
+  {
+    "name": "Барыш",
+    "coordinates": "53.653627,47.108048",
+    "region_id": 73,
+    "district_id": 7
+  },
+  {
+    "name": "Димитровград",
+    "coordinates": "54.226979,49.568457",
+    "region_id": 73,
+    "district_id": 7
+  },
+  {
+    "name": "Новоульяновск",
+    "coordinates": "54.145036,48.390554",
+    "region_id": 73,
+    "district_id": 7
+  },
+  {
+    "name": "Ульяновск",
+    "coordinates": "54.318160,48.383792",
+    "region_id": 73,
+    "district_id": 7
+  },
+  {
+    "name": "Алатырь",
+    "coordinates": "54.838343,46.581879",
+    "region_id": 21,
+    "district_id": 7
+  },
+  {
+    "name": "Канаш",
+    "coordinates": "55.512178,47.496965",
+    "region_id": 21,
+    "district_id": 7
+  },
+  {
+    "name": "Новочебоксарск",
+    "coordinates": "56.103603,47.506507",
+    "region_id": 21,
+    "district_id": 7
+  },
+  {
+    "name": "Чебоксары",
+    "coordinates": "56.116766,47.262782",
+    "region_id": 21,
+    "district_id": 7
+  },
+  {
+    "name": "Шумерля",
+    "coordinates": "55.505873,46.384065",
+    "region_id": 21,
+    "district_id": 7
+  },
+  {
+    "name": "Буйнакск",
+    "coordinates": "42.822275,47.116596",
+    "region_id": 5,
+    "district_id": 8
+  },
+  {
+    "name": "Дагестанские Огни",
+    "coordinates": "42.115381,48.187523",
+    "region_id": 5,
+    "district_id": 8
+  },
+  {
+    "name": "Дербент",
+    "coordinates": "42.067425,48.289091",
+    "region_id": 5,
+    "district_id": 8
+  },
+  {
+    "name": "Избербаш",
+    "coordinates": "42.568499,47.875381",
+    "region_id": 5,
+    "district_id": 8
+  },
+  {
+    "name": "Каспийск",
+    "coordinates": "42.874049,47.640417",
+    "region_id": 5,
+    "district_id": 8
+  },
+  {
+    "name": "Кизилюрт",
+    "coordinates": "43.203835,46.866355",
+    "region_id": 5,
+    "district_id": 8
+  },
+  {
+    "name": "Кизляр",
+    "coordinates": "43.843866,46.715243",
+    "region_id": 5,
+    "district_id": 8
+  },
+  {
+    "name": "Махачкала",
+    "coordinates": "42.966631,47.512629",
+    "region_id": 5,
+    "district_id": 8
+  },
+  {
+    "name": "Хасавюрт",
+    "coordinates": "43.256201,46.589335",
+    "region_id": 5,
+    "district_id": 8
+  },
+  {
+    "name": "Южно-Сухокумск",
+    "coordinates": "44.661120,45.647324",
+    "region_id": 5,
+    "district_id": 8
+  },
+  {
+    "name": "Карабулак",
+    "coordinates": "43.310100,44.904742",
+    "region_id": 6,
+    "district_id": 8
+  },
+  {
+    "name": "Магас",
+    "coordinates": "43.167556,44.810103",
+    "region_id": 6,
+    "district_id": 8
+  },
+  {
+    "name": "Малгобек",
+    "coordinates": "43.505394,44.583491",
+    "region_id": 6,
+    "district_id": 8
+  },
+  {
+    "name": "Назрань",
+    "coordinates": "43.214880,44.776350",
+    "region_id": 6,
+    "district_id": 8
+  },
+  {
+    "name": "Нальчик",
+    "coordinates": "43.494992,43.604513",
+    "region_id": 7,
+    "district_id": 8
+  },
+  {
+    "name": "Карачаевск",
+    "coordinates": "43.772218,41.914243",
+    "region_id": 9,
+    "district_id": 8
+  },
+  {
+    "name": "Черкесск",
+    "coordinates": "44.227397,42.059171",
+    "region_id": 9,
+    "district_id": 8
+  },
+  {
+    "name": "Владикавказ",
+    "coordinates": "43.025234,44.665976",
+    "region_id": 15,
+    "district_id": 8
+  },
+  {
+    "name": "Георгиевск",
+    "coordinates": "44.149767,43.457769",
+    "region_id": 26,
+    "district_id": 8
+  },
+  {
+    "name": "Ессентуки",
+    "coordinates": "44.045512,42.857523",
+    "region_id": 26,
+    "district_id": 8
+  },
+  {
+    "name": "Железноводск",
+    "coordinates": "44.140427,43.007012",
+    "region_id": 26,
+    "district_id": 8
+  },
+  {
+    "name": "Кисловодск",
+    "coordinates": "43.905601,42.728095",
+    "region_id": 26,
+    "district_id": 8
+  },
+  {
+    "name": "Лермонтов",
+    "coordinates": "44.110967,42.968418",
+    "region_id": 26,
+    "district_id": 8
+  },
+  {
+    "name": "Минеральные Воды",
+    "coordinates": "44.211675,43.123853",
+    "region_id": 26,
+    "district_id": 8
+  },
+  {
+    "name": "Невинномысск",
+    "coordinates": "44.638015,41.950464",
+    "region_id": 26,
+    "district_id": 8
+  },
+  {
+    "name": "Пятигорск",
+    "coordinates": "44.049893,43.039636",
+    "region_id": 26,
+    "district_id": 8
+  },
+  {
+    "name": "Ставрополь",
+    "coordinates": "45.045476,41.968343",
+    "region_id": 26,
+    "district_id": 8
+  },
+  {
+    "name": "Аргун",
+    "coordinates": "43.292687,45.880238",
+    "region_id": 20,
+    "district_id": 8
+  },
+  {
+    "name": "Грозный",
+    "coordinates": "43.316880,45.681486",
+    "region_id": 20,
+    "district_id": 8
+  }
+]
