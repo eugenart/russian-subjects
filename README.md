@@ -1,5 +1,5 @@
 # Российские Округа, Регионы, Города. JSON
-Russian Cities, Regions, Districts JSON. Российские города, области, края, ао, республики, регионы, округи JSON. API. with geodata geocodes, с геометками. В Крымской АО
+Russian Cities, Regions, Districts JSON. Российские города, области, края, ао, республики, регионы, округи JSON. API. with geodata geocodes, с геометками. Нет Крымской АО
 
 ### Что находится в списке? (native/...) ###
 1. **districts.json** Округи (Пример: Центральный округ, Общее количество: 8 элементов)
